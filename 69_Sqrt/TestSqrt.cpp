@@ -63,7 +63,6 @@ int main() {
 	}	
 
 	//Test 3
-	cout << mySqrt(2147395600) << endl;
 	if(46340 == mySqrt(2147395600)){
 		cout << "Test 3: Pass" << endl;
 	}
